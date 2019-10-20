@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\bin\Debug\2_8_SetUpAndTearDown.exe.config
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\bin\Debug\2_8_SetUpAndTearDown.exe
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\bin\Debug\2_8_SetUpAndTearDown.pdb
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\obj\Debug\2_8_SetUpAndTearDown.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\obj\Debug\2_8_SetUpAndTearDown.exe
+D:\[OOP] - Object Oriented Programming\Test\2_8_SetUpAndTearDown\2_8_SetUpAndTearDown\obj\Debug\2_8_SetUpAndTearDown.pdb
